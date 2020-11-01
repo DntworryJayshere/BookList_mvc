@@ -8609,11 +8609,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jared\\Desktop\\Penn_LPS_Bootcamp\\Homework\\BookListMVC\\BookListMVC\\BookListMVC.csproj",
+      "projectUniqueName": "C:\\Users\\jared\\Desktop\\codingProjects\\Homework\\BookList_mvc\\BookListMVC\\BookListMVC.csproj",
       "projectName": "BookListMVC",
-      "projectPath": "C:\\Users\\jared\\Desktop\\Penn_LPS_Bootcamp\\Homework\\BookListMVC\\BookListMVC\\BookListMVC.csproj",
+      "projectPath": "C:\\Users\\jared\\Desktop\\codingProjects\\Homework\\BookList_mvc\\BookListMVC\\BookListMVC.csproj",
       "packagesPath": "C:\\Users\\jared\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jared\\Desktop\\Penn_LPS_Bootcamp\\Homework\\BookListMVC\\BookListMVC\\obj\\",
+      "outputPath": "C:\\Users\\jared\\Desktop\\codingProjects\\Homework\\BookList_mvc\\BookListMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jared\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8681,7 +8681,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

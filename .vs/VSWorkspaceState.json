@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BookListMVC",
+    "\\BookListMVC\\Controllers",
+    "\\BookListMVC\\Models",
+    "\\BookListMVC\\Views",
+    "\\BookListMVC\\Views\\Shared"
+  ],
+  "SelectedNode": "\\BookListMVC\\BookListMVC.csproj",
+  "PreviewInSolutionExplorer": false
+}
